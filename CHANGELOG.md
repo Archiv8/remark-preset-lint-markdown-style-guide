@@ -12,10 +12,13 @@ _Exploring and Sharing Custom [Arch Linux](https://www.archlinux.org/) PKGBUILDs
 
 All notable changes to the project are documented in this file using rules based on advice given in the document [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and[Semantic Versioning](https://semver.org/spec/v2.0.0.html) for release numbering
 
+## Unreleased
+
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|  latest | 2020-02-02 | :id: SHA: Regenerate mismatched sums                  |
-|  latest | 2020-02-02 | :date: LOG: Add items to changelog                 |
+|  latest | 2020-02-02 | :id: SHA: Regenerate sums                             |
+|  latest | 2020-02-02 | :date: LOG: Correct links in changelog                |
+| d131bb7 | 2020-02-02 | :date: LOG: Add items to changelog                    |
 | 686e01b | 2020-02-02 | :pencil: DOC(spell): Update spellings list            |
 
 ## [1.0.0] - 2020-02-02
