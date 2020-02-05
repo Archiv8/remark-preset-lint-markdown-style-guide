@@ -4,8 +4,6 @@ _Exploring and Sharing Custom [Arch Linux](https://www.archlinux.org/) PKGBUILDs
 
 ---
 
-# Arch Linux package for [remark-preset-lint-markdown-style-guide](https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-markdown-style-guide)
-
 **_This repository contains unofficial packaging for an installation of [remark-preset-lint-markdown-style-guide](https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-markdown-style-guide). It is not affiliated, authorized, endorsed by, or in other way connected with either Arch Linux or the Remark Lint project. The following license refers to that packaging and not the upstream software_**
 
 ---
