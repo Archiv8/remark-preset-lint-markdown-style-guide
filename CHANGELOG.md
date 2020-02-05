@@ -14,8 +14,25 @@ All notable changes to the project are documented in this file using rules based
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|  latest | 2020-02-02 | :id: SHA: Regenerate sums                             |
-|  latest | 2020-02-02 | :date: LOG: Correct links in changelog                |
+|         |            |                                                       |
+
+## [1.1.0] - 2020-02-05
+
+### This release addresses
+
+- Initialization of repository
+
+### This release includes
+
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+|  latest | 2020-02-05 | :id: SECURE: Regenerate sums for changed files        |
+|  latest | 2020-02-05 | :cop: DOC(copy): Update copyright and header text     |
+| ae5f509 | 2020-02-05 | :package: PACK: Update to install new items           |
+| e6dd950 | 2020-02-05 | :cop: DOC(copy): Update license and copyright         |
+| ae5f509 | 2020-02-05 | :cop: DOC(copy): Update copyright and header text     |
+| e6dd950 | 2020-02-02 | :id: SECURE: Regenerate sums for changed files        |
+| 08524ad | 2020-02-02 | :date: LOG: Reference new changes                     |
 | d131bb7 | 2020-02-02 | :date: LOG: Add items to changelog                    |
 | 686e01b | 2020-02-02 | :pencil: DOC(spell): Update spellings list            |
 
