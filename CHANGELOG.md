@@ -16,7 +16,7 @@ All notable changes to the project are documented in this file using rules based
 | ------- | ---------- | ----------------------------------------------------- |
 |         |            |                                                       |
 
-## [1.1.0] - 2020-02-05
+## :wrench: [1.1.1] - 2020-02-15
 
 ### This release addresses
 
@@ -26,17 +26,35 @@ All notable changes to the project are documented in this file using rules based
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|  latest | 2020-02-05 | :id: SECURE: Regenerate sums for changed files        |
-|  latest | 2020-02-05 | :cop: DOC(copy): Update copyright and header text     |
-| ae5f509 | 2020-02-05 | :package: PACK: Update to install new items           |
+|      +2 | 2020-02-15 | :id: SEC(integ): Regenerate sums for changed files    |
+|      +1 | 2020-02-15 | :date: DOC(log): Update changelog for 1.1.1 release   |
+| bc0042f | 2020-02-15 | :gift: PACK: General tidy                             |
+| 5d41d03 | 2020-02-15 | :school: TOOL(spell): Add latest spellings to repo    |
+| 04aff82 | 2020-02-15 | :wrench: TOOL(lint): Add extra presets                |
+
+## :cop: [1.1.0] - 2020-02-05
+
+### This release addresses
+
+- Tidying Documentation
+- Correcting information in Changelog
+- Updating licensing and copyright
+
+### This release includes
+
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+| 5964e6b | 2020-02-05 | :id: SECURE: Regenerate sums for changed files        |
+| 6293014 | 2020-02-05 | :date: LOG: Reference new changes     |
+| 3757a15 | 2020-02-05 | :package: PACK: Update to install new items           |
 | e6dd950 | 2020-02-05 | :cop: DOC(copy): Update license and copyright         |
 | ae5f509 | 2020-02-05 | :cop: DOC(copy): Update copyright and header text     |
-| e6dd950 | 2020-02-02 | :id: SECURE: Regenerate sums for changed files        |
-| 08524ad | 2020-02-02 | :date: LOG: Reference new changes                     |
-| d131bb7 | 2020-02-02 | :date: LOG: Add items to changelog                    |
-| 686e01b | 2020-02-02 | :pencil: DOC(spell): Update spellings list            |
+| e6dd950 | 2020-02-05 | :id: SECURE: Regenerate sums for changed files        |
+| 08524ad | 2020-02-05 | :date: LOG: Reference new changes                     |
+| d131bb7 | 2020-02-05 | :date: LOG: Add items to changelog                    |
+| 686e01b | 2020-02-05 | :pencil: DOC(spell): Update spellings list            |
 
-## [1.0.0] - 2020-02-02
+## :tada: [1.0.0] - 2020-02-02
 
 ### This release addresses
 
