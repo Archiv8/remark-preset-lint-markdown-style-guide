@@ -1,6 +1,5 @@
-# shellcheck shell=bash
-# Maintainer: Ross Clark <https://github.com/Archiv8/nodejs-remark-preset-lint-markdown-style-guide/issues>
-# Contributor: Ross Clark <https://github.com/Archiv8/nodejs-remark-preset-lint-markdown-style-guide/issues>
+# Maintainer: Archiv8 <archiv8@artisteducator.com>
+# Contributor: Archiv8 <archiv8@artisteducator.com>
 
 _relname="remark-preset-lint-markdown-style-guide"
 
@@ -35,9 +34,9 @@ source=(
 "MIT.md"
 "README.md"
 )
-# noextract=()
+noextract=("$_relname-$pkgver.tgz")
 # validpgpkeys=()
-sha256sums=('3bb0d55d83267de275579b2ab3362be636018bc5c529857ed91efff8ed7d45d6'
+sha512sums=('3bb0d55d83267de275579b2ab3362be636018bc5c529857ed91efff8ed7d45d6'
             '671c04d237c2783bede3ae923908bad5ee02cb8bedd6cd7495f7e1e18a426e6b'
             '571e704e6f1add466526a2425e5f64671819d7e7c46fb8d36aaa49ca599dfb87'
             '35b78a29db63288ba9dbbe8f3b6d07aa02773bc4bb1993d133a2c70fbcdf02db'
