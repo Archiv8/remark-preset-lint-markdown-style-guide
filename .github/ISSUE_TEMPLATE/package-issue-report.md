@@ -1,6 +1,6 @@
 ---
-name: Issue Report
-about: Create a report to help make improvements
+name: Package Issue Report
+about: Create a package issue report and help make improvements
 title: "[ISSUE]"
 labels: issue, waiting triage
 assignees: rossclarkartist
