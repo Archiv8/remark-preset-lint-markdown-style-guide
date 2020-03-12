@@ -2,7 +2,7 @@
 name: Issue Report
 about: Create a report to help make improvements
 title: "[ISSUE]"
-labels: bug
+labels: issue, waiting triage
 assignees: rossclarkartist
 
 ---
