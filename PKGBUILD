@@ -16,7 +16,7 @@
 # pkgbase=
 pkgname="remark-preset-lint-markdown-style-guide"
 pkgver=5.1.2
-pkgrel=1
+pkgrel=2
 # epoch=
 pkgdesc="A remark lint preset to enforce consistency."
 arch=("any")
@@ -88,6 +88,8 @@ package() {
   jq '.|=with_entries(select(.key|test("_.+")|not))' "$pkgjson" > "$tmppackage"
   mv "$tmppackage" "$pkgjson"
   chmod 644 "$pkgjson"
+
+rm -rf "$pkgdir/usr/lib/node_modules/root"
 
   # Install license
   # install -Dm 644 "LICENSE" "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
